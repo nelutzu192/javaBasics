@@ -47,6 +47,7 @@ public class TemaCristina {
 //        String name = "summer";
 //        System.out.println (name);
 
+
         /*CORECTIE exercitiul 4:
             Avem nevoie sa citim un text de la tastatura, mai sus s-a definit obiectul scanner de tip Scanner;
             Apoi utilizatorul programului are nevoie sa stie ca noi asteptam ca el sa introduca un text de la tastatura
